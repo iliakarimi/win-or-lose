@@ -7,6 +7,8 @@ If you win, you win, but if you lose, the system32 folder will be deleted.
 
 (I'm seriously This game can damage your OS, So take care)
 
+This is a simple code use random, shutil, os and time python library.
+
 # How run the game:
 
 ```
